@@ -3,7 +3,7 @@
 ## Identitas Mahasiswa
 
 - Nama: Faiz Ammar Dzulfiqar
-- NIM: 24051010773
+- NIM: 2405101073
 - Kelas: 5E
 - Program Studi: Teknik Informatika
 - Mata Kuliah: Pemrograman Web Dasar
